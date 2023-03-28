@@ -1,3 +1,4 @@
+/*
 window.addEventListener("load",function(){
 
 	// Find the "sharing" dom
@@ -21,3 +22,4 @@ window.addEventListener("load",function(){
 	sharingDOM.parentNode.replaceChild(sharing, sharingDOM);
 
 });
+*/
